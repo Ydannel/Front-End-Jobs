@@ -135,19 +135,19 @@ This app was Created with a MERN stack
 Tecnologies used for this proyect
 
 
+
 <code>
 <img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg">
 </code>
-
 <code>
 <img height="20" src="https://cdn.svgporn.com/logos/express.svg">
 </code>
-
 <code>
 <img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg">
 </code>
 <code>
 <img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
 </code>
+
 ![img](https://firebasestorage.googleapis.com/v0/b/app-next-product.appspot.com/o/repo%2Fphoto_2020-10-28_15-30-30.jpg?alt=media&token=8a3886ce-acf0-4159-acee-df63374fcad7)
 
