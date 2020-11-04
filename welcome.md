@@ -1,2 +1,8 @@
 # Front-End-Jobs
-is a small repository for proyects in React.js
+
+Welcome to this repository.
+
+---
+Here, there are all proyects in frontend that i've created at the moment
+---
+
