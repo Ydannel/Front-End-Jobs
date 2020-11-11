@@ -52,6 +52,7 @@ Tecnologies used for this proyect
 
 
 ![img](https://firebasestorage.googleapis.com/v0/b/app-next-product.appspot.com/o/repo%2Fphoto_2020-11-10_20-45-26.jpg?alt=media&token=9041ce24-de20-42f3-b06a-fc9ad5a167f0)
+
 If you want to see the app , you can visit [here](https://practical-dubinsky-0dd62e.netlify.app)
 
 
@@ -66,6 +67,7 @@ Tecnologies used for this proyect
 </code>
 
 ![img](https://firebasestorage.googleapis.com/v0/b/app-next-product.appspot.com/o/repo%2Fimage_2020-11-04_09-47-54.png?alt=media&token=8468a7e1-284b-4a48-b6c5-00258f906ab7)
+<br/>
 If you want to see the app , you can visit [here](https://compassionate-jennings-548800.netlify.app)
 
 
