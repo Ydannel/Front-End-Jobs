@@ -1,0 +1,16 @@
+{
+  "short_name": "ToDo",
+  "name": "Toma nota de tu dia a dia",
+  "icons": [
+    
+    {
+      "src": "1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1a202d",
+  "background_color": "#1a202d"
+}
