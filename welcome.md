@@ -5,6 +5,28 @@
 ---
 Here, there are all proyects in frontend that i've created at the moment
 ---
+## Todo App
+
+This is a MERN stack, where you can save your notes and projects you want <br/>
+Tecnologies used for this proyect
+
+<code>
+<img height="20" src="https://cdn.svgporn.com/logos/mongodb.svg">
+</code>
+<code>
+<img height="20" src="https://cdn.svgporn.com/logos/express.svg">
+</code>
+<code>
+<img height="20" src="https://cdn.svgporn.com/logos/nextjs.svg">
+</code>
+<code>
+<img height="20" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+</code>
+
+![img](https://firebasestorage.googleapis.com/v0/b/app-next-product.appspot.com/o/repo%2Fscreencapture-sharp-bell-8c7f83-netlify-app-2021-01-11-14_41_53.png?alt=media&token=2b26aca2-0aab-4b61-81e2-b6ea7abb7236)
+
+If you want to see the app , you can visit [here](https://sharp-bell-8c7f83.netlify.app)
+
 
 ## Search news app
 
@@ -69,6 +91,21 @@ Tecnologies used for this proyect
 ![img](https://firebasestorage.googleapis.com/v0/b/app-next-product.appspot.com/o/repo%2Fimage_2020-11-04_09-47-54.png?alt=media&token=8468a7e1-284b-4a48-b6c5-00258f906ab7)
 <br/>
 If you want to see the app , you can visit [here](https://compassionate-jennings-548800.netlify.app)
+
+## Pediatria App
+
+Tecnologies used for this proyect
+<code>
+<img height="25" src="https://cdn.svgporn.com/logos/react.svg">
+</code>
+<code>
+<img height="25" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+</code>
+
+![img](https://firebasestorage.googleapis.com/v0/b/app-next-product.appspot.com/o/repo%2Fscreencapture-elated-yonath-29daa8-netlify-app-2021-01-11-14_42_25.png?alt=media&token=f0228aa7-5dfa-4495-987c-b7d8f26e1c9a)
+<br/>
+If you want to see the app , you can visit [here](https://elated-yonath-29daa8.netlify.app)
+
 
 
 ## Search products
