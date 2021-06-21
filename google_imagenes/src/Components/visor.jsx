@@ -3,7 +3,7 @@ import Imagenw from './img'
 
 const Lista = ({imagenes}) => {
     return ( 
-        <div className="col-12 p-5 row">
+        <div className="row  row-cols-1 row-cols-md-3 g-4">
             {
                 imagenes.map(
                     imagen =>(

@@ -19,7 +19,7 @@ function App() {
         if(busqueda === '')return;
 
       const imagenespag = 30;
-      const key ='13169014-17163caa6524fc43300404d1b';
+      const key =process.env.REACT_APP_ID;
       const url =`https://pixabay.com/api/?key=${key}&q=${busqueda}&per_page=${imagenespag}&page=${pagina}`;
       const request = await fetch(url);
       const result = await request.json();

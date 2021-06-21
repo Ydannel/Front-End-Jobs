@@ -6,9 +6,9 @@ import {es} from 'date-fns/locale';
 
 import Link from 'next/link'
 
-const DetallesP = ({producto}) => {
+const DetallesP = ({proyecto}) => {
     //extrayendo el producto desde el index hacia aca
-    const {id, comentarios, creado, descripcion, creador , nombre, urlImagen, votos}= producto
+    const {id, url, creado, descripcion, creador , nombre, urlImagen}= proyecto
     return ( 
         <li className="ui list">
             <div className="ui card centered 
